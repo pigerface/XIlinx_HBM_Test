@@ -1,0 +1,14 @@
+# Ignore FSDB files
+*.fsdb
+
+# Common VCS simulation artifacts
+csrc/
+*.daidir/
+*.simv
+*.simv.daidir/
+*.vdb/
+DVEfiles/
+ucli.key
+*.vpd
+*.vcd
+simv*
